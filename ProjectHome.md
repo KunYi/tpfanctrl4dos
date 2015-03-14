@@ -1,0 +1,1 @@
+The program base on "tp4xfancontrol". to http://sourceforge.net/projects/tp4xfancontrol get more information.
